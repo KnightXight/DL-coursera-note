@@ -12,4 +12,4 @@ this is a testbench and my notes too
 
 - week2.ipynb done
 
-check pull
+recheck
