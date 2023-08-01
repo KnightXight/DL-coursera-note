@@ -11,3 +11,5 @@ this is a testbench and my notes too
 [2023-08-01 16:08:00]\
 
 - week2.ipynb done
+
+check pull
