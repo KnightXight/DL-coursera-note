@@ -24,6 +24,7 @@ in progress
 
 - week2.ipynb done
 
+<<<<<<< HEAD
 recheck
 =======
 # note
@@ -53,3 +54,6 @@ in progress
 
 recheck
 >>>>>>> Neural-Networks-and-Deep-Learning
+=======
+recheck
+>>>>>>> ee9d02d374d1f234a26b66f5ea29c3f97503421d
